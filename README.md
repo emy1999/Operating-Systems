@@ -1,3 +1,4 @@
 # Operating-Systems
 * 4th semester project made with Virtual Box.
-* Utilization fo mutexes and threads were made.
+* Utilization of mutexes and threads were made.
+* Use of Virtual Box
